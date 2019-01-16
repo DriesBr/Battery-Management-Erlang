@@ -8,7 +8,7 @@ Every change will be captured in a logbook (survivor).
 
 Program instructions: 
   1. c(gpio).
-  2. c(survivor).
+  2. c(logbook).
   3. c(batMan).
   4. {O,I} = batMan:start().
   5. batMan:init(O,I).
